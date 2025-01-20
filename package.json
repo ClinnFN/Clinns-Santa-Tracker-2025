@@ -1,0 +1,8 @@
+{
+    "name": "clinns-santa-tracker",
+    "description": "A Santa tracker to track santa around the world on dec 24!",
+    "authors": "Clinn Team",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+}
